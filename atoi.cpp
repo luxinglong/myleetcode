@@ -28,6 +28,12 @@
 * is out of the range of representable values, INT_MAX (2147483647) or INT_MIN (-2147483648) 
 * is returned.
 *               
+* Conclusion:
+* 1. discards all leading whitespaces
+* 2. sign of the number
+* 3. overflow
+* 4. invalid input
+*
 **********************************************************************************/
 #include <iostream>
 
