@@ -28,4 +28,4 @@ def wordBreak(s: str, wordDict: List[str]) -> bool:
 if __name__ == "__main__":
     s = "leetcode"
     wordDict = ["leet", "code"]
-    assert wordBreak(s, wordDict) is True
+    print(wordBreak(s, wordDict))
