@@ -1,2 +1,6 @@
-# algorithm
-leetcode ...
+# myleetcode
+
+## 数据结构
+
+## 算法
+
